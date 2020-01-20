@@ -1866,6 +1866,7 @@ ul.fLikeMenu>li>a.iconed, ul.fLikeMenu>li>strong.iconed {
     box-shadow:inset 1px 1px 3px 0px #cbcbcb;
     -webkit-box-shadow:inset 1px 1px 3px 0px #cbcbcb;
     -moz-box-shadow:inset 1px 1px 3px 0px #cbcbcb;
+    min-width:0;
 }
 .form fieldset legend {
     display:block;
